@@ -17,7 +17,8 @@
   The program will open up a GUI window within a few seconds. With the GUI you can easily chat with the bot.
   
  
-##Screenshots
+## Screenshots
+![screenshot](assets/wow.png)
 
 ## Citations
  DataFlair - https://data-flair.training/blogs/python-chatbot-project/
