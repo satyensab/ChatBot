@@ -6,12 +6,19 @@
   
   ### `pip install tensorflow, keras, pickle, nltk`
   
-  You will need to install Jupyter Lab to run the code.  Go to your command prompt and run the following command
+  To run the chatbot, we have two main files; train_chatbot.py and chatapp.py.
   
-  ### `C:\Users\DataFlair>jupyter lab`
+  First, we train the model using the command in the terminal:
+   ### `python train_chatbot.py`
   
-  Once you have installed the following libraries and run the command above. You’ll see a new browser window open up; create a new console and use it to run your code. To   run multiple lines of code at once, press Shift+Enter.
+  If there are no errors present during training, we have successfully created the model. Then to run the app, we run the second file.
+  ### `python chatgui.py`
   
+  The program will open up a GUI window within a few seconds. With the GUI you can easily chat with the bot.
+  
+ 
+##Screenshots
+
 ## Citations
  DataFlair - https://data-flair.training/blogs/python-chatbot-project/
 
