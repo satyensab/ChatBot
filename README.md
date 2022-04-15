@@ -18,7 +18,7 @@
   
  
 ## Screenshots
-![screenshot](assets/wow.png)
+![screenshot](assets/wow.PNG)
 
 ## Citations
  DataFlair - https://data-flair.training/blogs/python-chatbot-project/
